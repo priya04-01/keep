@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/priya04-01/keep/static/css/main.b9a3623e.css",
+    "main.js": "/priya04-01/keep/static/js/main.05b622d2.js",
+    "index.html": "/priya04-01/keep/index.html",
+    "main.b9a3623e.css.map": "/priya04-01/keep/static/css/main.b9a3623e.css.map",
+    "main.05b622d2.js.map": "/priya04-01/keep/static/js/main.05b622d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9a3623e.css",
+    "static/js/main.05b622d2.js"
+  ]
+}
